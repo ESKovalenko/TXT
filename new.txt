@@ -1,0 +1,4 @@
+Full_name: Kovalenko Ekaterina Sergeevna
+Age: 27
+Number of pets: 2
+ Salary: 1000
