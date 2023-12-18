@@ -1,0 +1,6 @@
+ID
+Summary
+Details
+Priority
+Description
+Attachments to the bug report
